@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add konversi.kt">
-      <change afterPath="$PROJECT_DIR$/src/char.kt" afterDir="false" />
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add boolean.kt">
+      <change afterPath="$PROJECT_DIR$/src/boolean2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +54,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ASCIKt.executor": "Run",
     "Kotlin.BilanganbulatKt.executor": "Run",
     "Kotlin.BilangandesimalKt.executor": "Run",
     "Kotlin.BlokdankomentarKt.executor": "Run",
+    "Kotlin.Boolean2Kt.executor": "Run",
+    "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.CharKt.executor": "Run",
     "Kotlin.KonversiKt.executor": "Run",
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.LiterallKt.executor": "Run",
@@ -79,9 +84,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ASCIKt">
+  <component name="RunManager" selected="Kotlin.Boolean2Kt">
     <configuration name="ASCIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ASCIKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boolean2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boolean2Kt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,27 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralnumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralnumberKt" />
-      <module name="dasarpemogramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnderscordalamliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderscordalamliteralKt" />
-      <module name="dasarpemogramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Boolean2Kt" />
+        <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.ASCIKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiKt" />
-        <item itemvalue="Kotlin.LiteralnumberKt" />
-        <item itemvalue="Kotlin.UnderscordalamliteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725347097529</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add ASCI.kt">
+      <option name="closed" value="true" />
+      <created>1725347385867</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347385867</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add boolean.kt">
+      <option name="closed" value="true" />
+      <created>1725347460046</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347460046</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +322,8 @@
     <MESSAGE value="add underscordalamliteral.kt" />
     <MESSAGE value="add literalnumber.kt" />
     <MESSAGE value="add konversi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add konversi.kt" />
+    <MESSAGE value="add ASCI.kt" />
+    <MESSAGE value="add boolean.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add boolean.kt" />
   </component>
 </project>
