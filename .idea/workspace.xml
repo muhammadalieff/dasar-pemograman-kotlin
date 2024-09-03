@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="stater project">
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add Main.kt">
+      <change afterPath="$PROJECT_DIR$/src/literal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +38,9 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2lXpgJ5TS5E9AX95IdvywFJcozS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +61,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.LiteralKt">
+    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="dasarpemogramankotlin" />
@@ -62,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -82,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725336447311</updated>
-      <workItem from="1725336448592" duration="1020000" />
+      <workItem from="1725336448592" duration="2042000" />
     </task>
     <task id="LOCAL-00001" summary="stater project">
       <option name="closed" value="true" />
@@ -92,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725337123953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Main.kt">
+      <option name="closed" value="true" />
+      <created>1725337565204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725337565204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stater project" />
-    <option name="LAST_COMMIT_MESSAGE" value="stater project" />
+    <MESSAGE value="add Main.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Main.kt" />
   </component>
 </project>
