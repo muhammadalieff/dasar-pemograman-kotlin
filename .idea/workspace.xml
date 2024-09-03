@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add literall.kt">
-      <change afterPath="$PROJECT_DIR$/src/blokdankomentar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add blokdankomentar.kt">
+      <change afterPath="$PROJECT_DIR$/src/variabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BlokdankomentarKt">
+  <component name="RunManager" selected="Kotlin.VariabelKt">
     <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
       <module name="dasarpemogramankotlin" />
@@ -99,8 +98,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdankomentarKt" />
         <item itemvalue="Kotlin.LiterallKt" />
         <item itemvalue="Kotlin.LiteralKt" />
@@ -174,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725340433465</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add blokdankomentar.kt">
+      <option name="closed" value="true" />
+      <created>1725340966866</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340966866</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +200,7 @@
     <MESSAGE value="add Main.kt" />
     <MESSAGE value="add literal.kt" />
     <MESSAGE value="add literall.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add literall.kt" />
+    <MESSAGE value="add blokdankomentar.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add blokdankomentar.kt" />
   </component>
 </project>
