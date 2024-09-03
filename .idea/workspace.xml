@@ -74,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.UnderscordalamliteralKt">
+  <component name="RunManager" selected="Kotlin.LiteralnumberKt">
     <configuration name="BilanganbulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilanganbulatKt" />
       <module name="dasarpemogramankotlin" />
@@ -84,6 +84,13 @@
     </configuration>
     <configuration name="BilangandesimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilangandesimalKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiteralnumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LiteralnumberKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,20 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarvariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarvariabelKt" />
-      <module name="dasarpemogramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LiteralnumberKt" />
         <item itemvalue="Kotlin.UnderscordalamliteralKt" />
         <item itemvalue="Kotlin.BilangandesimalKt" />
         <item itemvalue="Kotlin.BilanganbulatKt" />
         <item itemvalue="Kotlin.ValvariabelKt" />
-        <item itemvalue="Kotlin.VarvariabelKt" />
       </list>
     </recent_temporary>
   </component>
