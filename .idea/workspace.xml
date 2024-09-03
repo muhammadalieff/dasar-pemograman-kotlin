@@ -64,9 +64,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LiteralKt">
+  <component name="RunManager" selected="Kotlin.LiterallKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiterallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LiterallKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LiterallKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
