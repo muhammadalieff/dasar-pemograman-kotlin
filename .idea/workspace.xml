@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add valvariabel.kt" />
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add bilanganbulat.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.BilanganbulatKt.executor": "Run",
     "Kotlin.BlokdankomentarKt.executor": "Run",
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.LiterallKt.executor": "Run",
@@ -71,9 +72,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BilanganbulatKt">
+  <component name="RunManager" selected="Kotlin.BilangandesimalKt">
     <configuration name="BilanganbulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilanganbulatKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BilangandesimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BilangandesimalKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,13 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
-      <module name="dasarpemogramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VarvariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VarvariabelKt" />
       <module name="dasarpemogramankotlin" />
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BilangandesimalKt" />
         <item itemvalue="Kotlin.BilanganbulatKt" />
         <item itemvalue="Kotlin.ValvariabelKt" />
         <item itemvalue="Kotlin.VarvariabelKt" />
         <item itemvalue="Kotlin.TipedataKt" />
-        <item itemvalue="Kotlin.VariabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725344673855</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add bilanganbulat.kt">
+      <option name="closed" value="true" />
+      <created>1725344821404</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344821404</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +248,7 @@
     <MESSAGE value="add tipedata.kt" />
     <MESSAGE value="add varvariabel.kt" />
     <MESSAGE value="add valvariabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add valvariabel.kt" />
+    <MESSAGE value="add bilanganbulat.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bilanganbulat.kt" />
   </component>
 </project>
