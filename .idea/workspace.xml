@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add blokdankomentar.kt">
-      <change afterPath="$PROJECT_DIR$/src/variabel.kt" afterDir="false" />
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add varvariabel.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,9 @@
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.LiterallKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.TipedataKt.executor": "Run",
+    "Kotlin.VariabelKt.executor": "Run",
+    "Kotlin.VarvariabelKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -69,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VarvariabelKt">
+  <component name="RunManager" selected="Kotlin.ValvariabelKt">
     <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
       <module name="dasarpemogramankotlin" />
@@ -77,15 +80,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiterallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiterallKt" />
+    <configuration name="TipedataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipedataKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipedataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipedataKt" />
+    <configuration name="ValvariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValvariabelKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ValvariabelKt" />
         <item itemvalue="Kotlin.VarvariabelKt" />
         <item itemvalue="Kotlin.TipedataKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdankomentarKt" />
-        <item itemvalue="Kotlin.LiterallKt" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +192,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725340966866</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add variabel.kt">
+      <option name="closed" value="true" />
+      <created>1725341034271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341034271</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add tipedata.kt">
+      <option name="closed" value="true" />
+      <created>1725341141390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341141390</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add varvariabel.kt">
+      <option name="closed" value="true" />
+      <created>1725341271019</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341271019</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +228,9 @@
     <MESSAGE value="add literal.kt" />
     <MESSAGE value="add literall.kt" />
     <MESSAGE value="add blokdankomentar.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add blokdankomentar.kt" />
+    <MESSAGE value="add variabel.kt" />
+    <MESSAGE value="add tipedata.kt" />
+    <MESSAGE value="add varvariabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add varvariabel.kt" />
   </component>
 </project>
