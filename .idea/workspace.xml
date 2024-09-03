@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add varvariabel.kt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add valvariabel.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +55,7 @@
     "Kotlin.LiterallKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.TipedataKt.executor": "Run",
+    "Kotlin.ValvariabelKt.executor": "Run",
     "Kotlin.VariabelKt.executor": "Run",
     "Kotlin.VarvariabelKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,9 +71,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ValvariabelKt">
-    <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
+  <component name="RunManager" selected="Kotlin.BilanganbulatKt">
+    <configuration name="BilanganbulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BilanganbulatKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BilanganbulatKt" />
         <item itemvalue="Kotlin.ValvariabelKt" />
         <item itemvalue="Kotlin.VarvariabelKt" />
         <item itemvalue="Kotlin.TipedataKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.BlokdankomentarKt" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725341271019</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add valvariabel.kt">
+      <option name="closed" value="true" />
+      <created>1725344673855</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344673855</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +238,7 @@
     <MESSAGE value="add variabel.kt" />
     <MESSAGE value="add tipedata.kt" />
     <MESSAGE value="add varvariabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add varvariabel.kt" />
+    <MESSAGE value="add valvariabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add valvariabel.kt" />
   </component>
 </project>
