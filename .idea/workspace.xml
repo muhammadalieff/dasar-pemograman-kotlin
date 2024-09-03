@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add bilanganbulat.kt" />
+    <list default="true" id="f376b43c-ed4b-4d82-a856-85bcf4aac0b9" name="Changes" comment="add literalkonstan.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -51,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.BilanganbulatKt.executor": "Run",
+    "Kotlin.BilangandesimalKt.executor": "Run",
     "Kotlin.BlokdankomentarKt.executor": "Run",
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.LiterallKt.executor": "Run",
@@ -72,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BilangandesimalKt">
+  <component name="RunManager" selected="Kotlin.UnderscordalamliteralKt">
     <configuration name="BilanganbulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilanganbulatKt" />
       <module name="dasarpemogramankotlin" />
@@ -87,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipedataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipedataKt" />
+    <configuration name="UnderscordalamliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscordalamliteralKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnderscordalamliteralKt" />
         <item itemvalue="Kotlin.BilangandesimalKt" />
         <item itemvalue="Kotlin.BilanganbulatKt" />
         <item itemvalue="Kotlin.ValvariabelKt" />
         <item itemvalue="Kotlin.VarvariabelKt" />
-        <item itemvalue="Kotlin.TipedataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725344821404</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add bilangandesimal.kt">
+      <option name="closed" value="true" />
+      <created>1725346631243</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346631243</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add literalkonstan.kt">
+      <option name="closed" value="true" />
+      <created>1725346733596</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346733597</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +267,8 @@
     <MESSAGE value="add varvariabel.kt" />
     <MESSAGE value="add valvariabel.kt" />
     <MESSAGE value="add bilanganbulat.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bilanganbulat.kt" />
+    <MESSAGE value="add bilangandesimal.kt" />
+    <MESSAGE value="add literalkonstan.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add literalkonstan.kt" />
   </component>
 </project>
