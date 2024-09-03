@@ -69,16 +69,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TipedataKt">
+  <component name="RunManager" selected="Kotlin.VarvariabelKt">
     <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
-      <module name="dasarpemogramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="dasarpemogramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,13 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarvariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarvariabelKt" />
+      <module name="dasarpemogramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VarvariabelKt" />
         <item itemvalue="Kotlin.TipedataKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdankomentarKt" />
         <item itemvalue="Kotlin.LiterallKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
